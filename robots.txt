@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elginplumbingco.com/sitemap.xml
